@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "c7d945d10983e24c101cb18614a605c2c3a25322348b68bb8666addbc3fe4fba"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "520a90112c3e9a9caa0fb1eda8f3745bc866e87114737423717ca265c326b06d"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "3ae5be0cc7742784d54558465527c65cf52d6e8b9e77af22e6bd727d3f363e95"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "14b1a9c6c6f2a0c87189602f9ccce3e3535bab850a0c93e1467312ff5dd1cd86"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "705e6301f1934b46e650d249c1bd83e5b586408ee340d8e6b1608d0cd2b89ff0"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "20191a7760863e795181595fafc2094d4f1ad7b254037cb4b4568c13bb451f11"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "ee868e7edfb76bc7cc9e50970d33f37fbabbd5219b86fff38d9ec8e1bb15fd4a"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "70033587920b8d52692b85745093362a789c1167216bb79ebb7852d431e83598"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "2d0068cf8f42c43384e3fddc8515217160c1fe0c2bab918445be4bd9080acc9e"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "ecf724b67501ed0a91109a1264aa6e803f6ea028e8fb6f6af3ca4ace790dc0d2"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "70a683962c1a4eaf5f2090dfb4454b52ad6ad06d01b780e74d69761e0525e258"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "e2309f0ef5a9b0e268c60bda44e18115f173802092ee0a558a50ef7b2d5fb1dc"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "45e3cee1482b218c905eb2e2bcdbb15f4843039bffdcb0a7ce1a742aecbcb93e"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "c41ff04e09138f74b6ec9dc49753294d97f1bc3008c14caf838d4e2c40174f5a"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "d1d30111da762051a712e0ec9b6f7f5c7d62bf67dfe2fb4fdbc8a6e2da08c05b"
+metafile = true

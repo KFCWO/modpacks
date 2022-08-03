@@ -1,0 +1,13 @@
+name = "KFCreate"
+author = "Yum! Brands"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2fe9ea519ff04f822f34e877b48ff8e6ceb97de7aadd83ffa659dacd567e0307"
+
+[versions]
+forge = "40.1.68"
+minecraft = "1.18.2"

@@ -1,0 +1,13 @@
+name = "AntiXray"
+filename = "anti-xray-1.2.1-Forge-1.18.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/sml2FMaA/versions/mc1.18.2-1.2.1-forge/anti-xray-1.2.1-Forge-1.18.2.jar"
+hash-format = "sha1"
+hash = "2336bb9610c9d86fb6999e4332baa7ecc280a5bd"
+
+[update]
+[update.modrinth]
+mod-id = "sml2FMaA"
+version = "tR9T8qrt"
